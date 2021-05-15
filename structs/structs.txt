@@ -1,0 +1,16 @@
+Value Type -> Use pointers to change these in a function
+--------------------------------------
+int
+float
+string
+bool
+structs
+
+
+Reference Type -> Don't worry about pointers with these
+---------------------------------------
+slices
+maps
+channels
+pointers
+functions
