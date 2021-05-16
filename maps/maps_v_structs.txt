@@ -1,0 +1,16 @@
+Map
+------------------------------------
+All keys must be the same Type
+Use to represent a collection of related properties
+All values must be the same time
+Don't need to know all the keys at compile time
+Keys are indexed - we can iterate over them
+Reference type! (don't need to worry about pointers)
+
+Struct
+-------------------------------------
+Values can be of different type
+You need to know all the different fields at compile time
+Keys don't support indexing
+Use to represent a "thing" with a lot of different properties
+Value type (pointers)
